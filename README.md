@@ -1,93 +1,45 @@
 # 🐍 Python Learning Projects
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
-![Projects](https://img.shields.io/badge/Projects-Beginner%20Portfolio-orange)
-![Last Updated](https://img.shields.io/badge/Updated-May%202026-lightgrey)
+![Projects](https://img.shields.io/badge/Portfolio-Beginner-orange)
 
 ---
 
 ## 📌 Overview
-This repository contains my **Python learning journey**, focused on building real projects while mastering programming fundamentals and software engineering skills.
-
-I started from zero and am progressively improving through small, practical projects.
+My Python learning journey focused on building real beginner projects.
 
 ---
 
 ## 🎮 Projects
 
 ### 🎮 Game Arcade
-A dual mini-game system combining:
-- Rock Paper Scissors
-- Number Guessing Game
+Rock Paper Scissors + Number Guessing Game
 
-**File:** `game1.py`
-
-**Features:**
-- Interactive menu system
-- Replay functionality
-- Emoji-based UI
-- Input validation
-
-**Skills learned:**
-- Loops
-- Conditionals
-- Random module
-- Error handling
+👉 [View Code](./games/game1.py)
 
 ---
 
 ### 📊 Calculator
-A simple command-line calculator for basic arithmetic operations.
+Basic arithmetic calculator
 
-**File:** `calculator.py`
-
-**Features:**
-- Addition, subtraction, multiplication, division
-- Clean user input handling
-
-**Skills learned:**
-- Functions
-- Conditionals
-- Input processing
+👉 [View Code](./calculator/calculator.py)
 
 ---
 
 ### 🔮 Fortune Teller
-A fun program that generates random fortunes based on user input.
+Random fortune generator
 
-**File:** `fortune.py`
-
-**Features:**
-- Randomized fortune generation
-- Interactive CLI experience
-
-**Skills learned:**
-- Random module
-- Strings
-- Basic logic building
+👉 [View Code](./fortune/fortune.py)
 
 ---
 
-## 📚 Learning Journey
-
-- 🎓 Course: CS50P (Harvard – Introduction to Programming with Python)
-- 📅 Started: May 12, 2026
-- 🎯 Goal: Build a strong programming + software engineering portfolio for university applications (CS / AI / Engineering)
-
----
-
-## 🚀 Future Plans
-- Add more advanced Python projects (automation, APIs, AI basics)
-- Improve code structure and modular design
-- Start GitHub portfolio projects (real-world level)
+## 📚 Learning Goals
+- Python fundamentals
+- Problem solving
+- Building portfolio projects
 
 ---
 
-## 🧠 About This Repo
-This repository is a **progress log**, not just finished projects.  
-It shows growth, experimentation, and consistent learning over time.
-
----
-
-⭐ If you're viewing this, feel free to explore the code and follow my journey!
+## 🚀 Goal
+Build a strong CS/AI engineering portfolio for university applications.
