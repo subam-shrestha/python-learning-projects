@@ -1,45 +1,16 @@
-# 🐍 Python Learning Projects
+# 📍 Learning Roadmap
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Learning-brightgreen)
-![Projects](https://img.shields.io/badge/Portfolio-Beginner-orange)
+## 🟢 Phase 1 — Completed
+- Python basics (variables, loops, functions)
+- CLI projects
+- Simple games
 
----
+## 🟡 Phase 2 — In Progress
+- File handling
+- APIs
+- Intermediate projects
 
-## 📌 Overview
-My Python learning journey focused on building real beginner projects.
-
----
-
-## 🎮 Projects
-
-### 🎮 Game Arcade
-Rock Paper Scissors + Number Guessing Game
-
-👉 [View Code](./games/game1.py)
-
----
-
-### 📊 Calculator
-Basic arithmetic calculator
-
-👉 [View Code](./calculator/calculator.py)
-
----
-
-### 🔮 Fortune Teller
-Random fortune generator
-
-👉 [View Code](./fortune/fortune.py)
-
----
-
-## 📚 Learning Goals
-- Python fundamentals
-- Problem solving
-- Building portfolio projects
-
----
-
-## 🚀 Goal
-Build a strong CS/AI engineering portfolio for university applications.
+## 🔴 Phase 3 — Upcoming
+- Data structures & algorithms
+- Web development (Flask)
+- AI / ML basics

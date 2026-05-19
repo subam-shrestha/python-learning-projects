@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.vscode/git commit -m "refactor: restructure repo into learning phases"
+.env
