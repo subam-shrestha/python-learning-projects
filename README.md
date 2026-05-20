@@ -49,18 +49,18 @@ Data Structures • Algorithms • Problem Solving • Software Design Patterns
 
 ## 📚 Featured Projects
 
-### 🎮 [Game Arcade](https://github.com/subam-shrestha/python-learning-projects/blob/main/game1.py)
+### 🎮 [Game Arcade](https://github.com/subam-shrestha/python-learning-projects/blob/main/02_games/games/game1.py)
 Interactive two-in-one game: Rock Paper Scissors + Number Guessing Game
 - **Tech:** Python, Random module, Exception handling
 - **Features:** Menu system, replay option, emoji UI
 - **Skills Demonstrated:** Loops, conditionals, user input validation, error handling
 
-### 📊 [Calculator Suite](https://github.com/subam-shrestha/python-learning-projects/blob/main/01_foundations/calculator/calculator.py)
+### 📊 [Calculator Suite](https://github.com/subam-shrestha/python-learning-projects/blob/main/01_foundations/calculator.py)
 Basic arithmetic calculator with error handling
 - **Tech:** Python
 - **Skills:** Functions, exception handling, user interaction
 
-### 🔮 [Fortune Teller](https://github.com/subam-shrestha/python-learning-projects/blob/main/fortune.py)
+### 🔮 [Fortune Teller](https://github.com/subam-shrestha/python-learning-projects/blob/main/01_foundations/fortune.py)
 Interactive fortune prediction based on user choices
 - **Tech:** Python, conditionals
 - **Skills:** Logic flow, string manipulation, user experience design
