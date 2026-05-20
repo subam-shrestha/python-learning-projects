@@ -15,14 +15,18 @@
 
 I'm a 17-year-old aspiring software engineer from Nepal, currently building a strong foundation in computer science through hands-on project development.
 
-```pythonclass Subam:
-def init(self):
-self.location = "Bharatpur, Nepal"
-self.education = "High School Graduate (2026)"
-self.current_focus = ["Python", "Algorithms", "Portfolio Building"]
-self.goals = ["CS University (US/NZ)", "Software Engineering Career"]
-self.learning_from = "CS50P (Harvard)"def daily_routine(self):
-    return ["Code for 2+ hours", "Build real projects", "Solve problems"]
+```python
+class Subam:
+    def __init__(self):
+        self.location = "Bharatpur, Nepal"
+        self.education = "High School Graduate (2026)"
+        self.current_focus = ["Python", "Algorithms", "Portfolio Building"]
+        self.goals = ["CS University (US/NZ)", "Software Engineering Career"]
+        self.learning_from = "CS50P (Harvard)"
+        
+    def daily_routine(self):
+        return ["Code for 2+ hours", "Build real projects", "Solve problems"]
+```
 
 **Current Status:** Building portfolio for university applications | Target: Fall 2027 enrollment
 
@@ -81,17 +85,21 @@ Interactive fortune prediction based on user choices
 
 ## 🎯 Learning Roadmap
 
-```mermaidgraph LR
-A[Python Basics] --> B[Data Structures]
-B --> C[Algorithms]
-C --> D[APIs & Web]
-D --> E[Databases]
-E --> F[AI/ML Foundations]style A fill:#00d4aa
-style B fill:#00d4aa
-style C fill:#ffd700
-style D fill:#gray
-style E fill:#gray
-style F fill:#gray
+```mermaid
+graph LR
+    A[Python Basics] --> B[Data Structures]
+    B --> C[Algorithms]
+    C --> D[APIs & Web]
+    D --> E[Databases]
+    E --> F[AI/ML Foundations]
+    
+    style A fill:#00d4aa
+    style B fill:#00d4aa
+    style C fill:#ffd700
+    style D fill:#gray
+    style E fill:#gray
+    style F fill:#gray
+```
 
 **✅ Completed:** Python fundamentals, Control flow, Functions, Exception handling  
 **🚧 In Progress:** Loops, Data structures  
