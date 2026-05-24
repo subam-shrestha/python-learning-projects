@@ -1,134 +1,251 @@
-<div align="center">
-  
-# Subam Lawot Shrestha
+# Python Learning Journey
 
-### Software Engineering Student | Python Developer | Building in Public
+**Student:** Subam Lawot Shrestha  
+**Location:** Bharatpur, Nepal  
+**Started:** May 12, 2026  
+**Goal:** Build portfolio for CS university applications (Fall 2027)
 
-[![GitHub followers](https://img.shields.io/github/followers/subam-shrestha?style=social)](https://github.com/subam-shrestha)
-[![GitHub stars](https://img.shields.io/github/stars/subam-shrestha?style=social)](https://github.com/subam-shrestha)
-
-</div>
+> Learning software engineering through hands-on project development
 
 ---
 
-## 👨‍💻 About Me
+## 📊 Progress Summary
 
-I'm a 17-year-old aspiring software engineer from Nepal, currently building a strong foundation in computer science through hands-on project development.
+**Current Week:** Week 2  
+**Total Projects:** 9+  
+**Lines of Code:** 500+  
+**Concepts Mastered:** 20+  
+**Learning Source:** CS50P (Harvard University)
 
-```python
-class Subam:
-    def __init__(self):
-        self.location = "Bharatpur, Nepal"
-        self.education = "High School Graduate (2026)"
-        self.current_focus = ["Python", "Algorithms", "Portfolio Building"]
-        self.goals = ["CS University (US/NZ)", "Software Engineering Career"]
-        self.learning_from = "CS50P (Harvard)"
-        
-    def daily_routine(self):
-        return ["Code for 2+ hours", "Build real projects", "Solve problems"]
-```
+---
 
-**Current Status:** Building portfolio for university applications | Target: Fall 2027 enrollment
+## 🎯 Featured Projects
+
+### 📝 To-Do List Manager
+Full-featured task management application with persistent storage.
+
+**File:** [`03_projects/todo_list.py`](03_projects/todo_list.py)
+
+**Features:**
+- Add, view, complete, and delete tasks
+- Task status tracking (pending/complete)
+- Clean CLI interface
+- Data persistence
+
+**Skills:** Lists, dictionaries, file I/O, CRUD operations, state management
+
+**Lines:** ~80
+
+---
+
+### 📇 Contact Manager
+Dictionary-based contact management system.
+
+**File:** [`03_projects/contact_manager.py`](03_projects/contact_manager.py)
+
+**Features:**
+- Store contacts with name, phone, email
+- Search functionality
+- View all contacts
+- Delete contacts
+- Dictionary data structure
+
+**Skills:** Dictionaries, key-value pairs, data organization, user input handling
+
+**Lines:** ~75
+
+---
+
+### 🔐 Password Strength Checker
+Security tool that validates password strength.
+
+**File:** [`03_projects/password_validator.py`](03_projects/password_validator.py)
+
+**Features:**
+- 5-point strength scoring system
+- Checks length, uppercase, lowercase, numbers, special chars
+- Provides improvement feedback
+- Real-time validation
+
+**Skills:** String methods, conditionals, validation logic, user feedback
+
+**Lines:** ~60
+
+---
+
+### 🎮 Game Arcade
+Two-in-one interactive game suite.
+
+**File:** [`02_games/game_arcade.py`](02_games/game_arcade.py)
+
+**Features:**
+- Rock Paper Scissors with best-of-3
+- Number Guessing Game (1-100) with hints
+- Menu system
+- Replay functionality
+- Emoji-enhanced UI
+
+**Skills:** Loops, conditionals, random module, exception handling, UX design
+
+**Lines:** ~100
+
+---
+
+### 🔮 Fortune Teller
+Interactive fortune prediction game.
+
+**File:** [`02_games/fortune_teller.py`](02_games/fortune_teller.py)
+
+**Features:**
+- Multiple fortune combinations based on user input
+- Personalized output
+- Fun, engaging experience
+
+**Skills:** Conditionals, string formatting, logic flow
+
+---
+
+### 🧮 Calculator
+Basic arithmetic calculator with error handling.
+
+**File:** [`01_foundations/calculator.py`](01_foundations/calculator.py)
+
+**Features:**
+- Add, subtract, multiply, divide
+- Error handling for division by zero
+- Input validation
+
+**Skills:** Functions, exception handling, basic math operations
+
+---
+
+## 📚 Learning Path
+✅ Week 1 (May 12-18): Python Fundamentals  
+✅ Variables, data types, operators  
+✅ Control flow (if/elif/else)  
+✅ Loops (while, for)  
+✅ Functions and scope  
+✅ Exception handling (try/except)  
+✅ Built 6 projects  
+
+✅ Week 2 (May 19-25): Data Structures  
+✅ Lists and list methods  
+✅ Dictionaries and key-value pairs  
+✅ File I/O basics  
+✅ Built 3+ projects  
+
+🚧 In Progress...
+
+📋 Week 3-4: Advanced Concepts
+- Object-Oriented Programming
+- Classes and objects
+- File operations (advanced)
+- More complex applications
+
+📋 Month 2: Algorithms & Problem Solving
+- Sorting algorithms
+- Search algorithms
+- LeetCode easy problems
+- Data structure implementations
+
+📋 Month 3+: Real-World Applications
+- APIs and web scraping
+- Database integration
+- Web development (Flask/Django)
+- AI/ML basics
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Currently Learning:**  
-Data Structures • Algorithms • Problem Solving • Software Design Patterns
+**Language:** Python 3.12  
+**Editor:** VS Code  
+**Version Control:** Git & GitHub  
+**Learning Resources:** CS50P, LeetCode, Real Python
 
 ---
 
-## 📚 Featured Projects
+## 📈 Statistics
 
-### 🎮 [Game Arcade](https://github.com/subam-shrestha/python-learning-projects/blob/main/02_games/games/game1.py)
-Interactive two-in-one game: Rock Paper Scissors + Number Guessing Game
-- **Tech:** Python, Random module, Exception handling
-- **Features:** Menu system, replay option, emoji UI
-- **Skills Demonstrated:** Loops, conditionals, user input validation, error handling
-
-### 📊 [Calculator Suite](https://github.com/subam-shrestha/python-learning-projects/blob/main/01_foundations/calculator.py)
-Basic arithmetic calculator with error handling
-- **Tech:** Python
-- **Skills:** Functions, exception handling, user interaction
-
-### 🔮 [Fortune Teller](https://github.com/subam-shrestha/python-learning-projects/blob/main/01_foundations/fortune.py)
-Interactive fortune prediction based on user choices
-- **Tech:** Python, conditionals
-- **Skills:** Logic flow, string manipulation, user experience design
-
-> 🔗 **View all projects:** [python-learning-projects](https://github.com/subam-shrestha/python-learning-projects)
+| Metric | Count |
+|--------|-------|
+| **Total Projects** | 9+ |
+| **Lines of Code** | 500+ |
+| **GitHub Commits** | 15+ |
+| **Days Coding** | 8/14 (Week 1-2) |
+| **CS50P Lectures** | 5/9 completed |
+| **Concepts Learned** | 20+ |
 
 ---
 
-## 📈 GitHub Activity
+## 🎯 Project Categories
 
-<div align="center">
+### 🎮 Games (2)
+Interactive programs focused on user engagement
+- Game Arcade (RPS + Number Guessing)
+- Fortune Teller
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subam-shrestha&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)
+### 📊 Productivity Tools (2)
+Real-world utility applications
+- To-Do List Manager
+- Contact Manager
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subam-shrestha&theme=algolia&hide_border=true)
+### 🔧 Utilities (1)
+Developer tools and helpers
+- Password Strength Checker
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subam-shrestha&layout=compact&theme=algolia&hide_border=true)
-
-</div>
-
----
-
-## 🎯 Learning Roadmap
-
-```mermaid
-graph LR
-    A[Python Basics] --> B[Data Structures]
-    B --> C[Algorithms]
-    C --> D[APIs & Web]
-    D --> E[Databases]
-    E --> F[AI/ML Foundations]
-    
-    style A fill:#00d4aa
-    style B fill:#00d4aa
-    style C fill:#ffd700
-    style D fill:#gray
-    style E fill:#gray
-    style F fill:#gray
-```
-
-**✅ Completed:** Python fundamentals, Control flow, Functions, Exception handling  
-**🚧 In Progress:** Loops, Data structures  
-**📋 Upcoming:** OOP, File I/O, Algorithms
+### 🧮 Foundations (3)
+Basic programs demonstrating core concepts
+- Calculator
+- Variables demo
+- Loops practice
 
 ---
 
 ## 💭 Philosophy
 
-> "Discipline beats motivation. Consistency beats intensity. Projects beat tutorials."
+> "The only way to learn programming is by writing programs."  
+> — Dennis Ritchie
 
-I believe in **learning by building**. Every program I write teaches me something new. Every bug I fix makes me a better developer.
+**My approach:**
+- ✅ Projects over tutorials
+- ✅ Build real solutions to real problems
+- ✅ Learn by doing, not just watching
+- ✅ Consistency over intensity
+- ✅ Make it work, then make it better
 
 ---
 
-## 🤝 Connect
+## 🎯 2026 Goals
 
-- 📧 Email: [your-email@example.com]
-- 🔗 LinkedIn: [Add when you create one]
+- [ ] Build 30+ Python projects
+- [ ] Solve 100+ LeetCode problems
+- [ ] Master data structures & algorithms
+- [ ] Create 5 portfolio-worthy applications
+- [ ] Contribute to open source
+- [ ] Secure CS university admission with scholarship
+
+---
+
+## 📬 Connect
+
+- 📧 Email: [Your email]
+- 🔗 GitHub: [@subam-shrestha](https://github.com/subam-shrestha)
 - 📍 Location: Bharatpur, Nepal
+
+---
+
+**Last Updated:** May 23, 2026  
+**Status:** Actively learning and building 🚀
 
 ---
 
 <div align="center">
 
-### 📊 Profile Views
+### ⭐ If you find my projects helpful, consider giving them a star!
 
-![Profile Views](https://komarev.com/ghpvc/?username=subam-shrestha&color=blue&style=flat-square)
-
-**⭐ If you find my projects interesting, consider giving them a star!**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
